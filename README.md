@@ -53,7 +53,7 @@ Once the application is running, you will be presented with a menu of actions to
 
 ## Video Explanation
 
-https://drive.google.com/file/d/1JGPA59o_lwjZDOpdmjYpzsiyUxzisaey/view?usp=sharing
+https://drive.google.com/file/d/15pIrGsPhPM_y98DNDDcs4nhhUIO_pkqV/view?usp=sharing
 
 ## OOPS Concepts Used
 In the Coffee Machine Simulator code provided, several Object-Oriented Programming (OOP) concepts have been utilized. Here are the OOP concepts used in the implementation:
